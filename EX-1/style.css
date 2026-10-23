@@ -1,0 +1,41 @@
+﻿body {
+    background-color: grey;
+    margin: 0;
+    padding: 20px 100px;
+    font-family: sans-serif;
+}
+
+.card {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.card-1 {
+    border-radius: 10px;
+}
+
+.card-2 {
+    border-radius: 30px;
+}
+
+.btn {
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    margin-top: 15px;
+}
+
+.btn-green {
+    background-color: #1abc9c;
+}
+
+.btn-orange {
+    background-color: #e67e22;
+}
+
+.btn-purple {
+    background-color: #9b59b6;
+}
